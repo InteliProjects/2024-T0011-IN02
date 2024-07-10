@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.desafiovoluntario.org.br/static/img/logos/logo_horizontal.png" alt="hcfmusp" width="200"/>
+<img src="https://lh5.googleusercontent.com/proxy/Qotx3Xax3Moxpmdb0aEDXwsS9ZPBKSV9DXDNQB4aWjxEiiiUSa7PhPfSt84YXsoKG0EJ5lmjEma6W7qsTe1V5Jo3Ol5-Jh3XxL-r4kdsCtW3o2fu" alt="pv" width="200"/>
 
 </div>
 
@@ -15,13 +15,13 @@ Elaborar uma plataforma Web a ser chamada de VTM, para potencialização da ofer
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Tripulação Voluntária
-  - Link do repositório: https://github.com/InteliProjects/2024-T0011-IN02-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T11-IN02-G01
 
 - Grupo 2 - Borbulha
-  - Link do repositório: https://github.com/InteliProjects/2024-T0011-IN02-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T11-IN02-G02
 
 - Grupo 3 - CSS
-  - Link do repositório: https://github.com/InteliProjects/2024-T0011-IN02-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T11-IN02-G03
 
 - Grupo 4 - League of Volunteers
-  - Link do repositório: https://github.com/InteliProjects/2024-T0011-IN02-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T11-IN02-G04
